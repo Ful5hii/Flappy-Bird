@@ -1,2 +1,2 @@
-# Flappy-Bird
-A flappy bird game coded in JavaScript
+# Flappy Bird
+A flappy bird game coded in [Replit](https://replit.com)
